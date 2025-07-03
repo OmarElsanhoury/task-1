@@ -1,4 +1,4 @@
-
+#task1
 #include <iostream>
 #include <string>
 #include <cctype>
